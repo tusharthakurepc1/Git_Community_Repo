@@ -1,5 +1,5 @@
 # Git Community Repo
 <br>
-<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2F1color-darkbg%402x.png&tbnid=NYql4Kuw4I_aVM&vet=12ahUKEwjv5fbHsZ6DAxWqrGMGHeOvBScQMygCegQIARBL..i&imgrefurl=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&docid=zURF9QyvmP0d4M&w=588&h=200&q=git%20image&client=ubuntu&ved=2ahUKEwjv5fbHsZ6DAxWqrGMGHeOvBScQMygCegQIARBL" >
+<img width = "300" height = "200" src = "https://github.com/tusharthakurepc1/Git_Community_Repo/assets/154318337/be6b97ee-d8ba-49f8-b392-40e1d7a7112b">
 <br>
 by Tushar Chand Thakur
